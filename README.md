@@ -1,7 +1,8 @@
 # Metasearch
 This application is a metasearch engine designed to bring search results of different website in a single web page.
 
-![no image found](readme.gif "")
+<img src="readme.gif" width="800" height="300"/>
+
 
 ## Technologies Used
 
